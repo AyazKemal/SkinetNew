@@ -19,7 +19,7 @@ $customTheme: mat.define-theme();
 }
 
 .container {
-  @apply mx-auto max-w-screen-2xl backdrop-brightness-100
+  @apply mx-auto max-w-screen-2xl
 }
 
 .text-primary {
